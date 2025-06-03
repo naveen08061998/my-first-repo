@@ -1,2 +1,3 @@
 Hello,Arrahman!
 "This is a new feature"
+"Learning Git is fun"
